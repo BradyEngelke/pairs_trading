@@ -3,7 +3,7 @@ This respository contains one python script that generates an investment dashboa
 
 # To Generate Dashboard
 
-1. Download the python script, app.py
+1. Download the python script: app.py
 
 2. Move app.py into a directory accessible within your favorite python IDE
 
