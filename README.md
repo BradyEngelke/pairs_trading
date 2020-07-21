@@ -1,5 +1,5 @@
 
-This respository contains one python script which generates an investment dashboard with a tutorial on Pairs Trading.
+This respository contains one python script that generates an investment dashboard with a tutorial on Pairs Trading.
 
 # To Generate Dashboard
 
