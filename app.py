@@ -209,7 +209,7 @@ app.layout = html.Div(children=[
 
     html.Div(children='''
     For Pairs Trading to be effective, you must identify two companies with stock prices, PE ratios, or any 
-    other financial metric that are highly correlated with another. For this dashboard, the daily PE ratios 
+    other financial metric that are highly correlated with eachother. For this dashboard, the daily PE ratios 
     of Alphabet & Apple were used since the PE ratio is arguably a more accurate valuation of a stock’s worth 
     than its price. Furthermore, Alphabet & Apple had the highest correlation between their daily PE ratios 
     compared to other potential company pairs within the mock portfolio. Lets first visualize the stock prices 
